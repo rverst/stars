@@ -1,6 +1,7 @@
 # This workflow builds a list of your starred repositories
 name: Stargazer
-
+env:
+  
 on:
   schedule:
     - cron: '42 2 * * *'
@@ -29,8 +30,8 @@ jobs:
       # Commit the changes
       - name: Commit files
         run: |
-          git config --local user.email "robert@verst.eu"
-          git config --local user.name "github action [bot]"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action [bot]"
           git add .
           git commit -m "Update list"
 
