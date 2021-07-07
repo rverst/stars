@@ -1,7 +1,6 @@
 # This workflow builds a list of your starred repositories
 name: Stargazer
-env:
-  
+
 on:
   schedule:
     - cron: '42 2 * * *'
