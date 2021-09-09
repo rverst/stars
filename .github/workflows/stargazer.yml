@@ -30,7 +30,7 @@ jobs:
       - name: Commit files
         run: |
           git config --local user.email "actions@noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.name "github-actions [bot]"
           git add .
           git commit -m "Update stargazer list"
 
