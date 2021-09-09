@@ -340,7 +340,7 @@ Total starred repositories: `611`
 
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone 
 \[*Apache License 2.0*\]
- (⭐️158955) 
+ (⭐️158954) 
 
 - [trilu2000/AskSin](https://github.com/trilu2000/AskSin) - Framework to develop HM compatible devices on base of Arduino Hardware 
 
@@ -458,7 +458,7 @@ Total starred repositories: `611`
 *Archived!*
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps 
 \[*Apache License 2.0*\]
- (⭐️7081) 
+ (⭐️7082) 
 
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software 
 \[*MIT License*\]
@@ -546,7 +546,7 @@ Total starred repositories: `611`
 
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. 
 \[*Apache License 2.0*\]
- (⭐️10061) 
+ (⭐️10062) 
 
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content 
 \[*Apache License 2.0*\]
@@ -622,7 +622,7 @@ Total starred repositories: `611`
 
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser 
 \[*Apache License 2.0*\]
- (⭐️12612) 
+ (⭐️12613) 
 
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like. 
 \[*BSD 3-Clause "New" or "Revised" License*\]
@@ -634,7 +634,7 @@ Total starred repositories: `611`
 
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server. 
 \[*GNU GPLv3*\]
- (⭐️2616) 
+ (⭐️2617) 
 
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices 
 \[*GNU AGPLv3*\]
@@ -750,7 +750,7 @@ Total starred repositories: `611`
 *Archived!*
 - [golang/go](https://github.com/golang/go) - The Go programming language 
 
- (⭐️89639) 
+ (⭐️89640) 
 
 - [golang/oauth2](https://github.com/golang/oauth2) - Go OAuth2 
 \[*BSD 3-Clause "New" or "Revised" License*\]
@@ -1398,7 +1398,7 @@ Total starred repositories: `611`
 
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor 
 
- (⭐️17624) 
+ (⭐️17625) 
 
 
 ## HTML
@@ -2182,11 +2182,11 @@ Total starred repositories: `611`
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes 
 \[*The Unlicense*\]
- (⭐️6012) 
+ (⭐️6015) 
 
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites 
 \[*The Unlicense*\]
- (⭐️99937) 
+ (⭐️99938) 
 
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash. 
 \[*GNU AGPLv3*\]
@@ -2401,7 +2401,7 @@ Total starred repositories: `611`
 
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing 
 \[*MIT License*\]
- (⭐️13914) 
+ (⭐️13913) 
 
 - [xalexalex/via](https://github.com/xalexalex/via) -  
 \[*GNU GPLv3*\]
@@ -2573,7 +2573,7 @@ Total starred repositories: `611`
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability 
 
- (⭐️46907) 
+ (⭐️46906) 
 
 - [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) -  
 
