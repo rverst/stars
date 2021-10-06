@@ -18,7 +18,7 @@ jobs:
       # Generate the list
       - name: Create star list
         id: stargazer
-        uses: rverst/stargazer@v1.2.3
+        uses: rverst/stargazer@latest
         with:
           github-user: ${{ github.actor }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
