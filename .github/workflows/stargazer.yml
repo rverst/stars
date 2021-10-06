@@ -25,6 +25,7 @@ jobs:
           list-file: "README.md"
           ignored-repositories: ${{ secrets.IGNORE_REPO }}
           with-back-to-top: true
+          format: table
 
       # Commit the changes
       - name: Commit files
