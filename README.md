@@ -66,7 +66,9 @@ Total starred repositories: `652`
   - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. \[*GNU GPLv3*\] (⭐️27171)
   - [x509cert/banned](https://github.com/x509cert/banned) - Banned.h - deprecated C runtime functions (⭐️87)
   - [ZinggJM/GxEPD](https://github.com/ZinggJM/GxEPD) - A simple E-Paper display library with common base class and separate IO class for Arduino. \[*GNU GPLv3*\] (⭐️677)
-  - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository \[*MIT License*\] (⭐️507)
+  - [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository \[*MIT License*\] (⭐️507) 
+
+**[⬆ back to top](#contents)**
 
 ## C#
 
@@ -90,7 +92,9 @@ Total starred repositories: `652`
   - [samhocevar/wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows (⭐️1734)
   - [StackExchange/NetGain](https://github.com/StackExchange/NetGain) - A high performance websocket server library powering Stack Overflow. \[*MIT License*\] (⭐️913)
   - [StephenCleary/Scripts](https://github.com/StephenCleary/Scripts) - Misc single-file scripts and utilities \[*MIT License*\] (⭐️10)
-  - [VsVim/VsVim](https://github.com/VsVim/VsVim) - Vim Emulator Plugin for Visual Studio 2015+  (⭐️3202)
+  - [VsVim/VsVim](https://github.com/VsVim/VsVim) - Vim Emulator Plugin for Visual Studio 2015+  (⭐️3202) 
+
+**[⬆ back to top](#contents)**
 
 ## C++
 
@@ -106,7 +110,7 @@ Total starred repositories: `652`
   - [dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson. (⭐️4954)
   - [dusty-nv/jetson-utils](https://github.com/dusty-nv/jetson-utils) - C++/Python Linux utility wrappers for NVIDIA Jetson - camera, codecs, CUDA, GStreamer, HID, OpenGL/XGL (⭐️301)
   - [elechouse/PN532](https://github.com/elechouse/PN532) - NFC library for Arduino using PN532 (⭐️339)
-  - [esp8266/Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino \[*GNU LGPLv2.1*\] (⭐️13328)
+  - [esp8266/Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino \[*GNU LGPLv2.1*\] (⭐️13329)
   - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. (⭐️4083)
   - [esphome/esphome-core](https://github.com/esphome/esphome-core) - 🚨 No longer used 🚨 - The C++ framework behind ESPHome \[*GNU GPLv3*\] (⭐️547)
   - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library \[*Apache License 2.0*\] (⭐️16871)
@@ -127,32 +131,44 @@ Total starred repositories: `652`
   - [T-Kuhn/Stepper-Juggler](https://github.com/T-Kuhn/Stepper-Juggler) - Keeping a ping pong ball bouncing with 4 stepper motors and 4 mics. (⭐️76)
   - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (⭐️6347)
   - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone \[*Apache License 2.0*\] (⭐️159559)
-  - [trilu2000/AskSin](https://github.com/trilu2000/AskSin) - Framework to develop HM compatible devices on base of Arduino Hardware (⭐️25) *Archived!*
+  - [trilu2000/AskSin](https://github.com/trilu2000/AskSin) - Framework to develop HM compatible devices on base of Arduino Hardware (⭐️25) *Archived!* 
+
+**[⬆ back to top](#contents)**
 
 ## CSS
 
   - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox \[*MIT License*\] (⭐️44334)
   - [rverst/mdsync](https://github.com/rverst/mdsync) - Simple markdown renderer with live reloading \[*MIT License*\] (⭐️3)
-  - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more \[*MIT License*\] (⭐️30266)
+  - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more \[*MIT License*\] (⭐️30265) 
+
+**[⬆ back to top](#contents)**
 
 ## D
 
-  - [yt-dlp/SponSkrub](https://github.com/yt-dlp/SponSkrub) - Strip advertisements from downloaded YouTube videos (⭐️54) *Archived!*
+  - [yt-dlp/SponSkrub](https://github.com/yt-dlp/SponSkrub) - Strip advertisements from downloaded YouTube videos (⭐️54) *Archived!* 
+
+**[⬆ back to top](#contents)**
 
 ## Dockerfile
 
   - [cnzjh/ipinfo.tw](https://github.com/cnzjh/ipinfo.tw) - :whale: A self-hosted, non-tracking & ad-free solution to show your IP info. Super small (< 10MB) \[*GNU GPLv3*\] (⭐️2)
   - [mono/docker](https://github.com/mono/docker) - Docker images, for the Docker container system (⭐️151)
-  - [tleyden/docker](https://github.com/tleyden/docker) - Docker files (⭐️85)
+  - [tleyden/docker](https://github.com/tleyden/docker) - Docker files (⭐️85) 
+
+**[⬆ back to top](#contents)**
 
 ## Elm
 
   - [eikek/docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort. \[*GNU AGPLv3*\] (⭐️438)
-  - [eikek/sharry](https://github.com/eikek/sharry) - Sharry is a self-hosted file sharing web application. \[*GNU GPLv3*\] (⭐️267)
+  - [eikek/sharry](https://github.com/eikek/sharry) - Sharry is a self-hosted file sharing web application. \[*GNU GPLv3*\] (⭐️267) 
+
+**[⬆ back to top](#contents)**
 
 ## Fennel
 
-  - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically \[*MIT License*\] (⭐️71)
+  - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed LSP servers, automatically \[*MIT License*\] (⭐️71) 
+
+**[⬆ back to top](#contents)**
 
 ## Go
 
@@ -187,13 +203,13 @@ Total starred repositories: `652`
   - [carterjones/signalr](https://github.com/carterjones/signalr) - SignalR WebSocket client written in Golang \[*MIT License*\] (⭐️46) *Archived!*
   - [cespare/xxhash](https://github.com/cespare/xxhash) - A Go implementation of the 64-bit xxHash algorithm (XXH64) \[*MIT License*\] (⭐️981)
   - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 \[*MIT License*\] (⭐️5697)
-  - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 \[*MIT License*\] (⭐️7152)
+  - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 \[*MIT License*\] (⭐️7153)
   - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator \[*MIT License*\] (⭐️27)
   - [chrj/smtpd](https://github.com/chrj/smtpd) - Go SMTP server library \[*MIT License*\] (⭐️53)
   - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop \[*GNU AGPLv3*\] (⭐️7108) *Archived!*
   - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool \[*MIT License*\] (⭐️25650)
   - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️1943)
-  - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime \[*Apache License 2.0*\] (⭐️9405)
+  - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime \[*Apache License 2.0*\] (⭐️9406)
   - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. \[*Apache License 2.0*\] (⭐️10600)
   - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content \[*Apache License 2.0*\] (⭐️3810)
   - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins \[*Apache License 2.0*\] (⭐️8196)
@@ -418,17 +434,23 @@ Total starred repositories: `652`
   - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go \[*MIT License*\] (⭐️4322)
   - [Zamony/wmwm](https://github.com/Zamony/wmwm) - Pure Go autotiling window manager \[*MIT License*\] (⭐️116)
   - [zeebo/xxh3](https://github.com/zeebo/xxh3) - XXH3 algorithm in Go (⭐️185)
-  - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (⭐️17791)
+  - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (⭐️17791) 
+
+**[⬆ back to top](#contents)**
 
 ## HTML
 
   - [editorconfig/editorconfig.github.com](https://github.com/editorconfig/editorconfig.github.com) - Configuration file format for defining coding styles in shared projects (⭐️249)
   - [homieiot/homie-esp8266](https://github.com/homieiot/homie-esp8266) - 💡 ESP8266 framework for Homie, a lightweight MQTT convention for the IoT \[*MIT License*\] (⭐️1273)
-  - [thedevdojo/tails](https://github.com/thedevdojo/tails) - The Tails Open Source Components are a (no-config) copy'n paste free collection of hand-crafted templates and components built in TailwindCSS. \[*MIT License*\] (⭐️519)
+  - [thedevdojo/tails](https://github.com/thedevdojo/tails) - The Tails Open Source Components are a (no-config) copy'n paste free collection of hand-crafted templates and components built in TailwindCSS. \[*MIT License*\] (⭐️519) 
+
+**[⬆ back to top](#contents)**
 
 ## Inno Setup
 
-  - [source-foundry/Hack-windows-installer](https://github.com/source-foundry/Hack-windows-installer) - A Windows installer for the Hack typeface (⭐️588)
+  - [source-foundry/Hack-windows-installer](https://github.com/source-foundry/Hack-windows-installer) - A Windows installer for the Hack typeface (⭐️588) 
+
+**[⬆ back to top](#contents)**
 
 ## Java
 
@@ -453,7 +475,9 @@ Total starred repositories: `652`
   - [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM \[*Apache License 2.0*\] (⭐️38810)
   - [tatung/FSKModemTerminal](https://github.com/tatung/FSKModemTerminal) - FSK Modem Terminal in Android. Work with Arduino Uno & SoftModem baud = 1225 (⭐️7)
   - [tony19/logback-android](https://github.com/tony19/logback-android) - 📄The reliable, generic, fast and flexible logging framework for Android \[*Apache License 2.0*\] (⭐️965)
-  - [TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - A barebones WebSocket client and server implementation written in 100% Java. \[*MIT License*\] (⭐️8454)
+  - [TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - A barebones WebSocket client and server implementation written in 100% Java. \[*MIT License*\] (⭐️8454) 
+
+**[⬆ back to top](#contents)**
 
 ## JavaScript
 
@@ -490,14 +514,18 @@ Total starred repositories: `652`
   - [rphl/corona-widget](https://github.com/rphl/corona-widget) - COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend) (⭐️565)
   - [samuelmatis/viera-control-v2](https://github.com/samuelmatis/viera-control-v2) - Simpler and faster WebSockets powered version of Viera control without API.  Control your Panasonic Viera TV with simple mobile optimized UI \[*MIT License*\] (⭐️36)
   - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language. \[*MIT License*\] (⭐️49605)
-  - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. \[*MIT License*\] (⭐️47688)
+  - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. \[*MIT License*\] (⭐️47689)
   - [TobitSoftware/chayns-template-angular2](https://github.com/TobitSoftware/chayns-template-angular2) -  \[*MIT License*\] (⭐️3)
   - [useaurora/aurora](https://github.com/useaurora/aurora) - Hate Cookies? Introducing Aurora, 100% Cookie-Free Open Website Analytics. Collect Anonymous Data. Make your Audience Happy Now! \[*MIT License*\] (⭐️553)
-  - [vikpe/react-webpack-typescript-starter](https://github.com/vikpe/react-webpack-typescript-starter) - Minimal starter with hot module replacement (HMR) for rapid development. \[*MIT License*\] (⭐️723)
+  - [vikpe/react-webpack-typescript-starter](https://github.com/vikpe/react-webpack-typescript-starter) - Minimal starter with hot module replacement (HMR) for rapid development. \[*MIT License*\] (⭐️723) 
+
+**[⬆ back to top](#contents)**
 
 ## Jinja
 
-  - [hassio-addons/addon-airsonos](https://github.com/hassio-addons/addon-airsonos) - AirSonos - Home Assistant Community Add-ons \[*MIT License*\] (⭐️43)
+  - [hassio-addons/addon-airsonos](https://github.com/hassio-addons/addon-airsonos) - AirSonos - Home Assistant Community Add-ons \[*MIT License*\] (⭐️43) 
+
+**[⬆ back to top](#contents)**
 
 ## Kotlin
 
@@ -506,11 +534,15 @@ Total starred repositories: `652`
   - [JakeWharton/timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class. \[*Apache License 2.0*\] (⭐️9234)
   - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.  (⭐️38890)
   - [leprosus/kotlin-hashids](https://github.com/leprosus/kotlin-hashids) - Kotlin hashids hash function \[*MIT License*\] (⭐️93)
-  - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. \[*Apache License 2.0*\] (⭐️40906)
+  - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. \[*Apache License 2.0*\] (⭐️40907) 
+
+**[⬆ back to top](#contents)**
 
 ## Less
 
-  - [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit (⭐️958)
+  - [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit (⭐️958) 
+
+**[⬆ back to top](#contents)**
 
 ## Lua
 
@@ -595,23 +627,31 @@ Total starred repositories: `652`
   - [tjdevries/vimterface.nvim](https://github.com/tjdevries/vimterface.nvim) - An interface for plugins. Vaporware (⭐️27)
   - [tjdevries/vlog.nvim](https://github.com/tjdevries/vlog.nvim) - Single file, no dependency, easy copy & paste log file to add to your neovim lua plugins \[*MIT License*\] (⭐️49)
   - [VapourNvim/VapourNvim](https://github.com/VapourNvim/VapourNvim) - A NeoVim config for THE ULTIMATE vim IDE-like experience. \[*GNU GPLv3*\] (⭐️99)
-  - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config \[*MIT License*\] (⭐️1437)
+  - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config \[*MIT License*\] (⭐️1438)
   - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Companion plugin for nvim-lspconfig that allows you to seamlessly install LSP servers locally. (also supports Windows) \[*Apache License 2.0*\] (⭐️145)
   - [Yagua/nebulous.nvim](https://github.com/Yagua/nebulous.nvim) - Minimalist Collection of Colorschemes Written in Lua \[*MIT License*\] (⭐️83)
-  - [yamatsum/nvim-cursorline](https://github.com/yamatsum/nvim-cursorline) - A plugin for neovim that highlights cursor words and lines \[*MIT License*\] (⭐️119)
+  - [yamatsum/nvim-cursorline](https://github.com/yamatsum/nvim-cursorline) - A plugin for neovim that highlights cursor words and lines \[*MIT License*\] (⭐️119) 
+
+**[⬆ back to top](#contents)**
 
 ## Makefile
 
   - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (⭐️26769)
-  - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. \[*MIT License*\] (⭐️3354)
+  - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. \[*MIT License*\] (⭐️3354) 
+
+**[⬆ back to top](#contents)**
 
 ## Nunjucks
 
-  - [5t3ph/smolcss](https://github.com/5t3ph/smolcss) - Minimal snippets for modern CSS layouts and components (⭐️417)
+  - [5t3ph/smolcss](https://github.com/5t3ph/smolcss) - Minimal snippets for modern CSS layouts and components (⭐️417) 
+
+**[⬆ back to top](#contents)**
 
 ## OCaml
 
-  - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. \[*GNU LGPLv2.1*\] (⭐️5337)
+  - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. \[*GNU LGPLv2.1*\] (⭐️5337) 
+
+**[⬆ back to top](#contents)**
 
 ## Objective-C
 
@@ -619,17 +659,23 @@ Total starred repositories: `652`
   - [fikovnik/ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position in OSX (⭐️5310)
   - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS (⭐️4054)
   - [heyvito/podman-macos](https://github.com/heyvito/podman-macos) - 📦  Podman frontend for macOS \[*MIT License*\] (⭐️387)
-  - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line. (⭐️5699)
+  - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line. (⭐️5699) 
+
+**[⬆ back to top](#contents)**
 
 ## PHP
 
   - [holtwick/onepile](https://github.com/holtwick/onepile) - Playground for the future of private notes and document management \[*MIT License*\] (⭐️38)
-  - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕 \[*GNU GPLv3*\] (⭐️4377)
+  - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕 \[*GNU GPLv3*\] (⭐️4377) 
+
+**[⬆ back to top](#contents)**
 
 ## Perl
 
   - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services (⭐️1443)
-  - [Lochnair/vyatta-wireguard](https://github.com/Lochnair/vyatta-wireguard) -  \[*GNU GPLv3*\] (⭐️728) *Archived!*
+  - [Lochnair/vyatta-wireguard](https://github.com/Lochnair/vyatta-wireguard) -  \[*GNU GPLv3*\] (⭐️728) *Archived!* 
+
+**[⬆ back to top](#contents)**
 
 ## PowerShell
 
@@ -637,7 +683,9 @@ Total starred repositories: `652`
   - [lukesampson/pshazz](https://github.com/lukesampson/pshazz) - Give your powershell some pizazz. \[*The Unlicense*\] (⭐️485)
   - [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. \[*The Unlicense*\] (⭐️14066)
   - [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras) - "Extras" bucket for Scoop \[*The Unlicense*\] (⭐️1136)
-  - [mikebattista/PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL). \[*MIT License*\] (⭐️277)
+  - [mikebattista/PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL). \[*MIT License*\] (⭐️277) 
+
+**[⬆ back to top](#contents)**
 
 ## Python
 
@@ -648,7 +696,7 @@ Total starred repositories: `652`
   - [ColeMurray/medium-facenet-tutorial](https://github.com/ColeMurray/medium-facenet-tutorial) - Facial Recognition Pipeline using Dlib and Tensorflow (⭐️195)
   - [davidsandberg/facenet](https://github.com/davidsandberg/facenet) - Face recognition using Tensorflow \[*MIT License*\] (⭐️12041)
   - [dfd-tud/deda](https://github.com/dfd-tud/deda) -  \[*GNU GPLv3*\] (⭐️1030)
-  - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. \[*Apache License 2.0*\] (⭐️46352)
+  - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. \[*Apache License 2.0*\] (⭐️46354)
   - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️52166)
   - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars! \[*MIT License*\] (⭐️889)
   - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box. \[*Creative Commons Zero v1.0 Universal*\] (⭐️10452)
@@ -670,13 +718,17 @@ Total starred repositories: `652`
   - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud \[*GNU AGPLv3*\] (⭐️21611)
   - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes \[*The Unlicense*\] (⭐️6984)
   - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites \[*The Unlicense*\] (⭐️100915)
-  - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash. \[*GNU AGPLv3*\] (⭐️985)
+  - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash. \[*GNU AGPLv3*\] (⭐️985) 
+
+**[⬆ back to top](#contents)**
 
 ## Ruby
 
   - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱 \[*GNU AGPLv3*\] (⭐️17500)
   - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries \[*BSD 2-Clause "Simplified" License*\] (⭐️18552)
-  - [JXA-Cookbook/JXA-Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook) - Cookbook for JavaScript for Automation in Mac OS X Yosemite (⭐️2561)
+  - [JXA-Cookbook/JXA-Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook) - Cookbook for JavaScript for Automation in Mac OS X Yosemite (⭐️2561) 
+
+**[⬆ back to top](#contents)**
 
 ## Rust
 
@@ -699,16 +751,22 @@ Total starred repositories: `652`
   - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find' (⭐️19119)
   - [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️1202)
   - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! \[*ISC License*\] (⭐️18934)
-  - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools \[*MIT License*\] (⭐️6393)
-  - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils \[*MIT License*\] (⭐️9008)
+  - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools \[*MIT License*\] (⭐️6394)
+  - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils \[*MIT License*\] (⭐️9008) 
+
+**[⬆ back to top](#contents)**
 
 ## SCSS
 
-  - [Buterland-Beckerhook/buterland-beckerhook](https://github.com/Buterland-Beckerhook/buterland-beckerhook) - App of Buterland-Beckerhook e.V. (⭐️1)
+  - [Buterland-Beckerhook/buterland-beckerhook](https://github.com/Buterland-Beckerhook/buterland-beckerhook) - App of Buterland-Beckerhook e.V. (⭐️1) 
+
+**[⬆ back to top](#contents)**
 
 ## Scheme
 
-  - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer \[*Apache License 2.0*\] (⭐️2450)
+  - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer \[*Apache License 2.0*\] (⭐️2450) 
+
+**[⬆ back to top](#contents)**
 
 ## Shell
 
@@ -720,14 +778,14 @@ Total starred repositories: `652`
   - [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core (⭐️16283)
   - [drubb/lxd-images](https://github.com/drubb/lxd-images) - Collection of LXD images for local development environments \[*MIT License*\] (⭐️19)
   - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+ \[*MIT License*\] (⭐️13054)
-  - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (⭐️17456)
+  - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (⭐️17457)
   - [hassio-addons/addon-vscode](https://github.com/hassio-addons/addon-vscode) - Visual Studio Code - Home Assistant Community Add-ons \[*MIT License*\] (⭐️239)
   - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 (⭐️4229)
   - [Installomator/Installomator](https://github.com/Installomator/Installomator) - Installation script to deploy standard software on Macs \[*Apache License 2.0*\] (⭐️267)
   - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish. \[*MIT License*\] (⭐️5171)
   - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync. (⭐️2518)
   - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework \[*MIT License*\] (⭐️7686)
-  - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. \[*MIT License*\] (⭐️134174)
+  - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. \[*MIT License*\] (⭐️134176)
   - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients. \[*MIT License*\] (⭐️3125)
   - [rememberYou/dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration (⭐️58)
   - [rverst/dotfiles](https://github.com/rverst/dotfiles) - These are my dotfiles, batteries included. \[*The Unlicense*\] (⭐️2)
@@ -737,26 +795,32 @@ Total starred repositories: `652`
   - [thomas-mc-work/rtb-wrapper](https://github.com/thomas-mc-work/rtb-wrapper) - profile based rsync-time-backup wrapper \[*Apache License 2.0*\] (⭐️29)
   - [tuxflo/docker-mergepdf](https://github.com/tuxflo/docker-mergepdf) - Docker container that watches a folder for odd and even pdf files and merges them via pdftk (⭐️2)
   - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing \[*MIT License*\] (⭐️14058)
-  - [xalexalex/via](https://github.com/xalexalex/via) -  \[*GNU GPLv3*\] (⭐️50)
+  - [xalexalex/via](https://github.com/xalexalex/via) -  \[*GNU GPLv3*\] (⭐️50) 
+
+**[⬆ back to top](#contents)**
 
 ## Swift
 
   - [biscuitehh/pam-watchid](https://github.com/biscuitehh/pam-watchid) - PAM plugin module that allows the Apple Watch to be used for authentication \[*The Unlicense*\] (⭐️576)
   - [home-assistant/iOS](https://github.com/home-assistant/iOS) - :iphone: Home Assistant for Apple platforms (⭐️832)
   - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥  Control your external monitor brightness & volume on your Mac \[*MIT License*\] (⭐️10164)
-  - [troystribling/BlueCap](https://github.com/troystribling/BlueCap) - iOS Bluetooth LE framework \[*MIT License*\] (⭐️679)
+  - [troystribling/BlueCap](https://github.com/troystribling/BlueCap) - iOS Bluetooth LE framework \[*MIT License*\] (⭐️679) 
+
+**[⬆ back to top](#contents)**
 
 ## TypeScript
 
   - [braintree/card-validator](https://github.com/braintree/card-validator) - Validate credit cards as users type. \[*MIT License*\] (⭐️695)
   - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser \[*MIT License*\] (⭐️48657)
   - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (⭐️36033)
-  - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient \[*Apache License 2.0*\] (⭐️18546)
+  - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient \[*Apache License 2.0*\] (⭐️18547)
   - [jevakallio/vscode-hacker-typer](https://github.com/jevakallio/vscode-hacker-typer) -  Great for live coding presentations, impressing your friends, or just trying to look busy at work. \[*MIT License*\] (⭐️400)
   - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool! (⭐️308)
   - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/ (⭐️25581)
   - [Musish/Musish](https://github.com/Musish/Musish) - Apple Music...ish  \[*GNU AGPLv3*\] (⭐️2726)
-  - [stef-levesque/vscode-hexdump](https://github.com/stef-levesque/vscode-hexdump) - hexdump for Visual Studio Code \[*MIT License*\] (⭐️121)
+  - [stef-levesque/vscode-hexdump](https://github.com/stef-levesque/vscode-hexdump) - hexdump for Visual Studio Code \[*MIT License*\] (⭐️121) 
+
+**[⬆ back to top](#contents)**
 
 ## Unknown
 
@@ -783,15 +847,19 @@ Total starred repositories: `652`
   - [rverst/stars](https://github.com/rverst/stars) - A list of my starred repositories, generated by rverst/stargazer \[*The Unlicense*\] (⭐️2)
   - [teenyicons/teenyicons](https://github.com/teenyicons/teenyicons) - Tiny minimal 1px icons designed to fit in the smallest places. \[*MIT License*\] (⭐️1610)
   - [Vinnl/feeds](https://github.com/Vinnl/feeds) -   Example repository for creating your own RSS feeds using Feed me up, Scotty! (⭐️92)
-  - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (⭐️19367)
+  - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview (⭐️19367) 
+
+**[⬆ back to top](#contents)**
 
 ## Vim script
 
   - [derekwyatt/vim-config](https://github.com/derekwyatt/vim-config) - My Vim configuration (⭐️409)
   - [hukl/Smyck-Color-Scheme](https://github.com/hukl/Smyck-Color-Scheme) - Color Scheme for Terminal.app, iTerm2, Vim, MacVim, Sublime Text2 and Textmate (⭐️1115)
-  - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager \[*MIT License*\] (⭐️24790)
+  - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager \[*MIT License*\] (⭐️24791)
   - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (⭐️47385)
   - [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) -  (⭐️236)
   - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on (⭐️4410)
-  - [vigoux/dotfiles](https://github.com/vigoux/dotfiles) - Personnal dotfiles and scripts (⭐️13)
+  - [vigoux/dotfiles](https://github.com/vigoux/dotfiles) - Personnal dotfiles and scripts (⭐️13) 
+
+**[⬆ back to top](#contents)**
 
