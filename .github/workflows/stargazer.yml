@@ -24,7 +24,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           list-file: "README.md"
           ignored-repositories: ${{ secrets.IGNORE_REPO }}
-          with-bak-to-top: true
+          with-back-to-top: true
 
       # Commit the changes
       - name: Commit files
