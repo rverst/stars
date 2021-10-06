@@ -139,7 +139,7 @@ Total starred repositories: `652`
 
   - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox \[*MIT License*\] (⭐️44334)
   - [rverst/mdsync](https://github.com/rverst/mdsync) - Simple markdown renderer with live reloading \[*MIT License*\] (⭐️3)
-  - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more \[*MIT License*\] (⭐️30265) 
+  - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more \[*MIT License*\] (⭐️30266) 
 
 **[⬆ back to top](#contents)**
 
@@ -187,7 +187,7 @@ Total starred repositories: `652`
   - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection \[*GNU AGPLv3*\] (⭐️9782)
   - [attic-labs/noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database \[*Apache License 2.0*\] (⭐️7500) *Archived!*
   - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps \[*Apache License 2.0*\] (⭐️10209)
-  - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software \[*MIT License*\] (⭐️68697)
+  - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software \[*MIT License*\] (⭐️68698)
   - [awesome-gocui/gocui](https://github.com/awesome-gocui/gocui) - Minimalist Go package aimed at creating Console User Interfaces. \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️207)
   - [awnumar/memguard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory. \[*Apache License 2.0*\] (⭐️1994)
   - [bahlo/abutil](https://github.com/bahlo/abutil) - [UNMAINTAINED] :ab: A collection of often-used Golang helpers \[*Do What The F*ck You Want To Public License*\] (⭐️54) *Archived!*
@@ -306,7 +306,7 @@ Total starred repositories: `652`
   - [jstarks/npiperelay](https://github.com/jstarks/npiperelay) - npiperelay allows you to access Windows named pipes from WSL \[*MIT License*\] (⭐️266)
   - [jszwec/s3fs](https://github.com/jszwec/s3fs) - S3 FileSystem (fs.FS) implementation \[*MIT License*\] (⭐️118)
   - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️13209)
-  - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder \[*MIT License*\] (⭐️39507)
+  - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder \[*MIT License*\] (⭐️39508)
   - [justinas/alice](https://github.com/justinas/alice) - Painless middleware chaining for Go \[*MIT License*\] (⭐️2369)
   - [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers \[*MIT License*\] (⭐️4119)
   - [jwilder/gofana](https://github.com/jwilder/gofana) - Standalone Grafana Server With SSL and Auth (⭐️237)
@@ -351,7 +351,7 @@ Total starred repositories: `652`
   - [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard. \[*Apache License 2.0*\] (⭐️1813)
   - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️1132)
   - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool. \[*MIT License*\] (⭐️1592)
-  - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time \[*MIT License*\] (⭐️2933)
+  - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time \[*MIT License*\] (⭐️2934)
   - [nakabonne/gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics \[*MIT License*\] (⭐️403)
   - [nakabonne/tstorage](https://github.com/nakabonne/tstorage) - An embedded time-series database \[*Apache License 2.0*\] (⭐️593)
   - [nanohard/gotime](https://github.com/nanohard/gotime) - CUI project/task/time tracker written in golang (⭐️153)
@@ -378,7 +378,7 @@ Total starred repositories: `652`
   - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program \[*BSD 2-Clause "Simplified" License*\] (⭐️13897)
   - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem written in Go \[*MIT License*\] (⭐️1976)
   - [Rhymond/go-money](https://github.com/Rhymond/go-money) - Go implementation of Fowler's Money pattern \[*MIT License*\] (⭐️995)
-  - [robfig/cron](https://github.com/robfig/cron) - a cron library for go \[*MIT License*\] (⭐️8531)
+  - [robfig/cron](https://github.com/robfig/cron) - a cron library for go \[*MIT License*\] (⭐️8532)
   - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger \[*MIT License*\] (⭐️5337)
   - [rupor-github/wsl-ssh-agent](https://github.com/rupor-github/wsl-ssh-agent) - Helper to interface with Windows ssh-agent.exe service from Windows Subsystem for Linux (WSL) \[*GNU GPLv3*\] (⭐️371)
   - [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go (⭐️4801)
@@ -424,7 +424,7 @@ Total starred repositories: `652`
   - [traefik/whoami](https://github.com/traefik/whoami) - Tiny Go webserver that prints os information and HTTP request to output \[*Apache License 2.0*\] (⭐️529)
   - [trashhalo/imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal \[*MIT License*\] (⭐️443)
   - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. \[*MIT License*\] (⭐️4814)
-  - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. \[*MIT License*\] (⭐️13761)
+  - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. \[*MIT License*\] (⭐️13762)
   - [umputun/remark42](https://github.com/umputun/remark42) - comment engine \[*MIT License*\] (⭐️3075)
   - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go \[*MIT License*\] (⭐️16623)
   - [v-byte-cpu/sx](https://github.com/v-byte-cpu/sx) - :vulcan_salute: Fast, modern, easy-to-use network scanner \[*MIT License*\] (⭐️799)
@@ -468,14 +468,14 @@ Total starred repositories: `652`
   - [openhab/openhab-core](https://github.com/openhab/openhab-core) - Core framework of openHAB \[*Eclipse Public License 2.0*\] (⭐️563)
   - [openhab/openhab1-addons](https://github.com/openhab/openhab1-addons) - Add-ons for openHAB 1.x \[*Eclipse Public License 2.0*\] (⭐️3478) *Archived!*
   - [RWTH-i5-IDSG/steve](https://github.com/RWTH-i5-IDSG/steve) - SteVe - OCPP server implementation in Java (⭐️249)
-  - [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS \[*GNU AGPLv3*\] (⭐️7079)
+  - [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS \[*GNU AGPLv3*\] (⭐️7080)
   - [SignalR/java-client](https://github.com/SignalR/java-client) - OBSOLETE - see readme (⭐️324) *Archived!*
   - [skjolber/ndef-tools-for-android](https://github.com/skjolber/ndef-tools-for-android) - NDEF Tools for Android \[*Apache License 2.0*\] (⭐️118)
   - [sooorajjj/android-fskmodem](https://github.com/sooorajjj/android-fskmodem) - Android/Java library for encoding and decoding FSK audio signals. \[*GNU GPLv3*\] (⭐️1)
   - [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM \[*Apache License 2.0*\] (⭐️38810)
   - [tatung/FSKModemTerminal](https://github.com/tatung/FSKModemTerminal) - FSK Modem Terminal in Android. Work with Arduino Uno & SoftModem baud = 1225 (⭐️7)
   - [tony19/logback-android](https://github.com/tony19/logback-android) - 📄The reliable, generic, fast and flexible logging framework for Android \[*Apache License 2.0*\] (⭐️965)
-  - [TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - A barebones WebSocket client and server implementation written in 100% Java. \[*MIT License*\] (⭐️8454) 
+  - [TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - A barebones WebSocket client and server implementation written in 100% Java. \[*MIT License*\] (⭐️8453) 
 
 **[⬆ back to top](#contents)**
 
@@ -492,7 +492,7 @@ Total starred repositories: `652`
   - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows. \[*Mozilla Public License 2.0*\] (⭐️10725)
   - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY! (⭐️3592)
   - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player \[*MIT License*\] (⭐️11965)
-  - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. \[*GNU GPLv3*\] (⭐️26525)
+  - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. \[*GNU GPLv3*\] (⭐️26526)
   - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type \[*GNU GPLv3*\] (⭐️4291) *Archived!*
   - [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy. \[*MIT License*\] (⭐️784)
   - [hjespers/teslams](https://github.com/hjespers/teslams) - Tesla node.js apps and javascript libraries using Tesla's HTTP interfaces \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️403)
@@ -691,12 +691,12 @@ Total starred repositories: `652`
 
   - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️ \[*MIT License*\] (⭐️4648)
   - [bundesAPI/deutschland](https://github.com/bundesAPI/deutschland) - Die wichtigsten APIs Deutschlands in einem Python Paket. \[*Apache License 2.0*\] (⭐️321)
-  - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need \[*MIT License*\] (⭐️27227)
+  - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need \[*MIT License*\] (⭐️27228)
   - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather \[*Apache License 2.0*\] (⭐️15746)
   - [ColeMurray/medium-facenet-tutorial](https://github.com/ColeMurray/medium-facenet-tutorial) - Facial Recognition Pipeline using Dlib and Tensorflow (⭐️195)
   - [davidsandberg/facenet](https://github.com/davidsandberg/facenet) - Face recognition using Tensorflow \[*MIT License*\] (⭐️12041)
   - [dfd-tud/deda](https://github.com/dfd-tud/deda) -  \[*GNU GPLv3*\] (⭐️1030)
-  - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. \[*Apache License 2.0*\] (⭐️46354)
+  - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. \[*Apache License 2.0*\] (⭐️46356)
   - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️52166)
   - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars! \[*MIT License*\] (⭐️889)
   - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box. \[*Creative Commons Zero v1.0 Universal*\] (⭐️10452)
@@ -714,10 +714,10 @@ Total starred repositories: `652`
   - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️4288)
   - [shortbloke/home_assistant_config](https://github.com/shortbloke/home_assistant_config) - HomeAssistant.io Configuration Files \[*MIT License*\] (⭐️108)
   - [simonschellaert/spotify2am](https://github.com/simonschellaert/spotify2am) - Import your Spotify library into Apple Music (⭐️277)
-  - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips! \[*GNU GPLv3*\] (⭐️6326)
+  - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips! \[*GNU GPLv3*\] (⭐️6328)
   - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud \[*GNU AGPLv3*\] (⭐️21611)
   - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes \[*The Unlicense*\] (⭐️6984)
-  - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites \[*The Unlicense*\] (⭐️100915)
+  - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites \[*The Unlicense*\] (⭐️100916)
   - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash. \[*GNU AGPLv3*\] (⭐️985) 
 
 **[⬆ back to top](#contents)**
@@ -747,7 +747,7 @@ Total starred repositories: `652`
   - [Palmitoxico/ddc-control](https://github.com/Palmitoxico/ddc-control) - Stupid simple configuration utility for Display Data Channel \[*GNU GPLv3*\] (⭐️3)
   - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (⭐️4108)
   - [pierreyoda/rustboycolor](https://github.com/pierreyoda/rustboycolor) - Simple Game Boy (Color) emulator written in Rust. \[*MIT License*\] (⭐️7)
-  - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (⭐️29657)
+  - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (⭐️29658)
   - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find' (⭐️19119)
   - [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️1202)
   - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! \[*ISC License*\] (⭐️18934)
@@ -777,7 +777,7 @@ Total starred repositories: `652`
   - [discourse/discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse \[*MIT License*\] (⭐️1357)
   - [dotnet/core](https://github.com/dotnet/core) - Home repository for .NET Core (⭐️16283)
   - [drubb/lxd-images](https://github.com/drubb/lxd-images) - Collection of LXD images for local development environments \[*MIT License*\] (⭐️19)
-  - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+ \[*MIT License*\] (⭐️13054)
+  - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+ \[*MIT License*\] (⭐️13055)
   - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (⭐️17457)
   - [hassio-addons/addon-vscode](https://github.com/hassio-addons/addon-vscode) - Visual Studio Code - Home Assistant Community Add-ons \[*MIT License*\] (⭐️239)
   - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 (⭐️4229)
@@ -785,7 +785,7 @@ Total starred repositories: `652`
   - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish. \[*MIT License*\] (⭐️5171)
   - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync. (⭐️2518)
   - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework \[*MIT License*\] (⭐️7686)
-  - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. \[*MIT License*\] (⭐️134176)
+  - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. \[*MIT License*\] (⭐️134182)
   - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients. \[*MIT License*\] (⭐️3125)
   - [rememberYou/dotfiles](https://github.com/rememberYou/dotfiles) - 🏡 Personal dotfiles configuration (⭐️58)
   - [rverst/dotfiles](https://github.com/rverst/dotfiles) - These are my dotfiles, batteries included. \[*The Unlicense*\] (⭐️2)
@@ -794,7 +794,7 @@ Total starred repositories: `652`
   - [system76/launch](https://github.com/system76/launch) - System76 Launch Configurable Keyboard \[*GNU GPLv3*\] (⭐️1200)
   - [thomas-mc-work/rtb-wrapper](https://github.com/thomas-mc-work/rtb-wrapper) - profile based rsync-time-backup wrapper \[*Apache License 2.0*\] (⭐️29)
   - [tuxflo/docker-mergepdf](https://github.com/tuxflo/docker-mergepdf) - Docker container that watches a folder for odd and even pdf files and merges them via pdftk (⭐️2)
-  - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing \[*MIT License*\] (⭐️14058)
+  - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing \[*MIT License*\] (⭐️14059)
   - [xalexalex/via](https://github.com/xalexalex/via) -  \[*GNU GPLv3*\] (⭐️50) 
 
 **[⬆ back to top](#contents)**
@@ -811,7 +811,7 @@ Total starred repositories: `652`
 ## TypeScript
 
   - [braintree/card-validator](https://github.com/braintree/card-validator) - Validate credit cards as users type. \[*MIT License*\] (⭐️695)
-  - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser \[*MIT License*\] (⭐️48657)
+  - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser \[*MIT License*\] (⭐️48658)
   - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (⭐️36033)
   - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient \[*Apache License 2.0*\] (⭐️18547)
   - [jevakallio/vscode-hacker-typer](https://github.com/jevakallio/vscode-hacker-typer) -  Great for live coding presentations, impressing your friends, or just trying to look busy at work. \[*MIT License*\] (⭐️400)
