@@ -62,7 +62,7 @@ Total starred repositories: `652`
   - [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system. \[*Apache License 2.0*\] (⭐️1478)
   - [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files. (⭐️4654)
   - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor \[*MIT License*\] (⭐️9475)
-  - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (⭐️119103)
+  - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (⭐️119104)
   - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. \[*GNU GPLv3*\] (⭐️27171)
   - [x509cert/banned](https://github.com/x509cert/banned) - Banned.h - deprecated C runtime functions (⭐️87)
   - [ZinggJM/GxEPD](https://github.com/ZinggJM/GxEPD) - A simple E-Paper display library with common base class and separate IO class for Arduino. \[*GNU GPLv3*\] (⭐️677)
@@ -698,7 +698,7 @@ Total starred repositories: `652`
   - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (⭐️29657)
   - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find' (⭐️19119)
   - [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️1202)
-  - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! \[*ISC License*\] (⭐️18933)
+  - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! \[*ISC License*\] (⭐️18934)
   - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools \[*MIT License*\] (⭐️6393)
   - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils \[*MIT License*\] (⭐️9008)
 
@@ -789,7 +789,7 @@ Total starred repositories: `652`
 
   - [derekwyatt/vim-config](https://github.com/derekwyatt/vim-config) - My Vim configuration (⭐️409)
   - [hukl/Smyck-Color-Scheme](https://github.com/hukl/Smyck-Color-Scheme) - Color Scheme for Terminal.app, iTerm2, Vim, MacVim, Sublime Text2 and Textmate (⭐️1115)
-  - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager \[*MIT License*\] (⭐️24791)
+  - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager \[*MIT License*\] (⭐️24790)
   - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (⭐️47385)
   - [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) -  (⭐️236)
   - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on (⭐️4410)
